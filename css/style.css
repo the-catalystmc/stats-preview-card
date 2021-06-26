@@ -59,7 +59,7 @@ body {
 .stats__layer {
   border-top-left-radius: 12px;
   border-top-right-radius: 12px;
-  background-color: rgba(90, 6, 142, 0.6);
+  background-color: rgba(142, 6, 6, 0.6);
   top: 0;
   left: 0;
   width: 100%;
